@@ -89,4 +89,3 @@ GROUP BY 1;
 
 * `main.py`: Core Python function logic.
 * `requirements.txt`: Python dependencies (functions-framework, google-cloud-vision, etc.).
-* `/images`: Sample images for system verification.
