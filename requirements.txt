@@ -1,0 +1,4 @@
+functions-framework
+google-cloud-vision
+google-cloud-firestore
+google-cloud-bigquery
